@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589611840 source:c:\users\user\documents\blockchainfinal\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+
